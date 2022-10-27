@@ -1,2 +1,3 @@
 # calculating-activation-energy
-Python project completed at university. Uses Python to analyse some real data and extract useful information.
+
+This Jupyter notebook project completed was completed as an independent piece of work at university. It uses Python to analyse some real data from my master's project in order to extract useful information.
